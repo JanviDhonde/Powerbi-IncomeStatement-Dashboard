@@ -1,4 +1,4 @@
-## 📊 Income Statement Dashboard - 2024
+## 📊 Income Statement Dashboard
 
 ### 📜 Project Overview
 
@@ -70,6 +70,7 @@ Load the `.pbix` file into Power BI Desktop.
 - Drill down into specific metrics for a detailed analysis.
 
 ### 📊 Dashboard Preview
+![Income Statement Dashboard Preview](https://github.com/JanviDhonde/Powerbi-IncomeStatement-Dashboard/blob/main/Income%20Statement%20Dashboard.png)
 
 ### 📊 Key DAX Measures
 
